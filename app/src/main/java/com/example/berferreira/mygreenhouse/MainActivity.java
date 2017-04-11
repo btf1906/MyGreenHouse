@@ -29,6 +29,9 @@ public class MainActivity extends AppCompatActivity {
                 database.push().setValue(values);
                 temperatureText.setText("");
                 humidityText.setText("");
+
+
+                //teste
             }
         });
     }
