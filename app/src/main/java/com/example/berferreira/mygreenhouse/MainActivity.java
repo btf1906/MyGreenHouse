@@ -30,9 +30,6 @@ public class MainActivity extends AppCompatActivity {
                 temperatureText.setText("");
                 humidityText.setText("");
 
-                //Benfica é............
-                //teste
-                //teste
             }
         });
     }
